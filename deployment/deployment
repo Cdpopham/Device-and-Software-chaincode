@@ -1,0 +1,22 @@
+/* active deployed contracts */
+
+Superadmin 0xc3efd1e6f58ee847917aa477157ab6343a773d71
+
+Dev
+rolemanager: 0x1ab9b3935839dd0f67baa27eaf3ff834bc8535a9
+registry: 0x27c8170b19647b1e8d8c6f6cbff9658f7ce57765
+
+DELL OEM: 0xe19fc48fab50654dc613be4da1075eb42514aed2
+byod : 0x5e87f3df8497a23bce6b06c069d2c72acc22f9b9
+
+Prod
+
+
+
+DEV NODE:  52.183.3.92:18546
+
+rolemanager: 0xd3d69b38747c097c0b0a1124ce53280365f47a52
+registry:    0x8390bf80c5bc0925f0fce76619086ffeb4ff34c0
+
+dev OEM: 0xe19fc48fab50654dc613be4da1075eb42514aed2
+byod:    0x811f9363a05e2a8d7a050eab8613ca4e7dfbbec4
